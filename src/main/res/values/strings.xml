@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WebLinkAndPhoneCallApp</string>
+    <string name="title_implicit_intents">Implicit Intents</string>
+    <string name="label_url">URL:</string>
+    <string name="label_phone">Phone:</string>
+    <string name="btn_launch">Launch</string>
+    <string name="btn_ring">Ring</string>
+    <string name="btn_close_app">Close App</string>
+    <string name="default_url">http://www.sjsu.edu</string>
+    <string name="default_phone">(XXX) XXX - XXXXX</string>
+</resources>
